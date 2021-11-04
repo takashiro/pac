@@ -16,6 +16,16 @@ module.exports = {
 	],
 	rules: {
 		'linebreak-style': 'off',
+		'import/no-unresolved': 'off',
+		'import/extensions': [
+			'error',
+			{
+				ignoredPackages: [
+					'ts',
+					'js',
+				],
+			},
+		],
 		indent: [
 			'error',
 			'tab',

@@ -12,8 +12,11 @@ module.exports = function config(env, argv) {
 			pac: './src/index.ts',
 		},
 		output: {
-			library: 'FindProxyForURL',
-			libraryTarget: 'global',
+			library: {
+				name: 'FindProxyForURL',
+				type: 'var',
+				export: 'default',
+			},
 			path: `${__dirname}/dist`,
 			clean: true,
 		},
@@ -25,6 +28,9 @@ module.exports = function config(env, argv) {
 					loader: 'ts-loader',
 				},
 			],
+		},
+		resolve: {
+			extensions: ['.ts'],
 		},
 	};
 };
