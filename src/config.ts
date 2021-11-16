@@ -14,6 +14,9 @@ export const protectedHosts: string[] = [
 	'ytimg.com',
 	'googlevideo.com',
 	'ggpht.com',
+	'wikipedia.org',
+	'wikimedia.org',
+	'cdn.filezilla-project.org',
 ];
 
 export const proxy = 'PROXY localhost:1080;';
