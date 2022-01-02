@@ -17,6 +17,10 @@ export const protectedHosts: string[] = [
 	'wikipedia.org',
 	'wikimedia.org',
 	'cdn.filezilla-project.org',
+	'kamigami.org',
+	'nyaa.si',
+	'acgnx.se',
+	'bit.ly',
 ];
 
 export const proxy = 'PROXY localhost:1080;';
