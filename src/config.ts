@@ -4,7 +4,6 @@ export const protectedHosts: string[] = [
 	'googleusercontent.com',
 	'github.com',
 	'tw',
-	'jp',
 	'digitaloceanspaces.com',
 	'gravatar.com',
 	'twitter.com',
@@ -21,6 +20,7 @@ export const protectedHosts: string[] = [
 	'nyaa.si',
 	'acgnx.se',
 	'bit.ly',
+	'quora.com',
 ];
 
 export const proxy = 'PROXY localhost:1080;';
