@@ -10,6 +10,7 @@ export const protectedHosts: string[] = [
 	'googleusercontent.com',
 	'googlevideo.com',
 	'gravatar.com',
+	'linkedin.com',
 	'kamigami.org',
 	'nyaa.si',
 	'pixiv.net',
