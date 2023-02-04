@@ -8,6 +8,8 @@ export const protectedHosts: string[] = [
 	'github.com',
 	'githubusercontent.com',
 	'google.com',
+	'google.com.sg',
+	'google.com.hk',
 	'googleapis.com',
 	'googleusercontent.com',
 	'googlevideo.com',
