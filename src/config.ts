@@ -1,5 +1,7 @@
 export const protectedHosts: string[] = [
 	'acgnx.se',
+	'amazon.co.jp',
+	'bing.com',
 	'bit.ly',
 	'cdn.filezilla-project.org',
 	'digitaloceanspaces.com',
@@ -23,6 +25,7 @@ export const protectedHosts: string[] = [
 	'pixiv.net',
 	'qbittorrent.org',
 	'quora.com',
+	'rakuten.co.jp',
 	'sstatic.net',
 	'stackoverflow.com',
 	'tw',
