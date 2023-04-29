@@ -20,6 +20,7 @@ export const protectedHosts: string[] = [
 	'instagram.com',
 	'linkedin.com',
 	'kamigami.org',
+	'mikanani.me',
 	'nyaa.si',
 	'paypalobjects.com',
 	'pixiv.net',
