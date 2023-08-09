@@ -1,17 +1,12 @@
 export const protectedHosts: string[] = [
-	'acgnx.se',
 	'amazon.co.jp',
 	'bing.com',
-	'bit.ly',
 	'browser.pipe.aria.microsoft.com',
-	'cdn.filezilla-project.org',
 	'digitaloceanspaces.com',
 	'facebook.com',
 	'githubassets.com',
 	'githubusercontent.com',
 	'google.com',
-	'google.com.sg',
-	'google.com.hk',
 	'googleapis.com',
 	'googleblog.com',
 	'googlesource.com',
@@ -40,6 +35,7 @@ export const protectedHosts: string[] = [
 	'wikipedia.org',
 	'youtube.com',
 	'ytimg.com',
+	'52poke.wiki',
 ];
 
 export const proxy = 'PROXY localhost:1080;';
