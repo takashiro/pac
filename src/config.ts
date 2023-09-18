@@ -1,7 +1,5 @@
 export const protectedHosts: string[] = [
 	'amazon.co.jp',
-	'bing.com',
-	'browser.pipe.aria.microsoft.com',
 	'digitaloceanspaces.com',
 	'facebook.com',
 	'githubassets.com',
@@ -26,6 +24,7 @@ export const protectedHosts: string[] = [
 	'qbittorrent.org',
 	'quora.com',
 	'rakuten.co.jp',
+	'sslwidget.criteo.com',
 	'sstatic.net',
 	'stackoverflow.com',
 	'tw',
