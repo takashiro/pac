@@ -1,3 +1,4 @@
+import { expect, it } from '@jest/globals';
 import find from '../src';
 import { proxy, direct } from '../src/config';
 
