@@ -3,6 +3,7 @@ export const protectedHosts: string[] = [
 	'digitaloceanspaces.com',
 	'cdn.rawgit.com',
 	'facebook.com',
+	'fanbox.cc',
 	'fbcdn.net',
 	'github.com',
 	'githubassets.com',
