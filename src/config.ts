@@ -1,6 +1,7 @@
 export const protectedHosts: string[] = [
 	'amazon.co.jp',
 	'digitaloceanspaces.com',
+	'cdn.rawgit.com',
 	'facebook.com',
 	'fbcdn.net',
 	'github.com',
@@ -30,6 +31,7 @@ export const protectedHosts: string[] = [
 	'sslwidget.criteo.com',
 	'sstatic.net',
 	'stackoverflow.com',
+	't.co',
 	'tw',
 	'twitter.com',
 	'twimg.com',
