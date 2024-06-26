@@ -6,8 +6,5 @@
 		"moduleResolution": "Bundler",
 		"esModuleInterop": true,
 		"strict": true
-	},
-	"include": [
-		"src"
-	]
+	}
 }
