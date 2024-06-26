@@ -26,6 +26,7 @@ export const protectedHosts: string[] = [
 	'openai.com',
 	'paypalobjects.com',
 	'pinterest.com',
+	'pixai.art',
 	'pixiv.net',
 	'qbittorrent.org',
 	'quora.com',
