@@ -1,5 +1,6 @@
 export const protectedHosts: string[] = [
 	'amazon.co.jp',
+	'amazonaws.com',
 	'digitaloceanspaces.com',
 	'cdn.rawgit.com',
 	'cdninstagram.com',
