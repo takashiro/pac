@@ -24,6 +24,7 @@ export const protectedHosts: string[] = [
 	'gstatic.com',
 	'hub.docker.com',
 	'instagram.com',
+	'interactivebrokers.com',
 	'linkedin.com',
 	'kamigami.org',
 	'kraken.com',
