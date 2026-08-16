@@ -42,10 +42,13 @@ export const protectedHosts: string[] = [
 	'pixiv.net',
 	'qbittorrent.org',
 	'quora.com',
+	'rakuten.com',
 	'rakuten.co.jp',
 	'sslwidget.criteo.com',
 	'sstatic.net',
 	'stackoverflow.com',
+	'subhd.tv',
+	'thepiratebay.org',
 	't.co',
 	'tw',
 	'twitter.com',
@@ -58,6 +61,7 @@ export const protectedHosts: string[] = [
 	'youtube.com',
 	'youtu.be',
 	'ytimg.com',
+	'1lou.me',
 	'52poke.wiki',
 ];
 
